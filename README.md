@@ -13,3 +13,4 @@
 
 ### [Live Demo](https://disney-plus-clone-4b3a7.web.app/)
 
+//deloy on firebase
